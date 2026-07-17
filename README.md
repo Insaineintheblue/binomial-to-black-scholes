@@ -6,7 +6,7 @@ Python implementation and bilingual dissertation written for the 1st year of the
 
 This repository contains the mathematical framework and the numerical applications developed to analyze option pricing, moving from discrete-time models to continuous-time limits.
 
-### 1. Theory (Dissertation)
+### 1. Theory
 Along the way, the dissertation covers:
  
 - Arbitrage, hedging portfolios, and the risk-neutral probability measure (one-period model)
@@ -19,7 +19,7 @@ Files available:
 * `Dissertation_Magistère_1st_year.pdf` (English version)
 * `Mémoire_Magistère_1ère_année.pdf` (French version)
 
-### 2. Numerical Implementation (`.ipynb`)
+### 2. Numerical Implementation
 The Jupyter Notebook contains the Python source code for:
 * Pricing European and American options using binomial trees.
 * Computing the optimal exercise boundary for American options.
